@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently a 3rd year btech student
 - 💞️ I’m looking to collaborate on Machine learing and C++ Projects.
-- 📫 How to reach me...abhinav14052002@gmail.com
+- 📫 How to reach me-abhinav14052002@gmail.com
 
 <!---
 DevAbhi14/DevAbhi14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
