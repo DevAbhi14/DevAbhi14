@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevAbhi14
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Machine Learning and Web development
 - 🌱 I’m currently a 3rd year btech student
 - 💞️ I’m looking to collaborate on Machine Learning, Front-end web development and C++ Projects.
 - 📫 Contact : abhinav14052002@gmail.com
