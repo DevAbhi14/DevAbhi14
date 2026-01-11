@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevAbhi14
-- 👀 I’m interested in Machine Learning and Web development
-- 🌱 I’m currently a 4rth year btech student
-- 💞️ I’m looking to collaborate on Machine Learning, Front-end web development and C++ Projects.
+- 👀 I’m interested in Machine Learning and Java Full Stack development
+- 🌱 I’m a Btech CSE (2020-2024)Graduate
+- 💞️ I’m looking to collaborate on Java Full Stack Development,Machine Learning, Front-end web development and C++,Java Projects.
 - 📫 Contact : abhinav14052002@gmail.com
 
 <!---
