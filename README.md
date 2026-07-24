@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevAbhi14
 - 👀 I’m interested in Machine Learning and Java Full Stack development
-- 🌱 I’m a Btech CSE (2020-2024)Graduate
+- 🌱 I’m a Btech CSE Graduate
 - 💞️ I’m looking to collaborate on Java Full Stack Development,Machine Learning, Front-end web development and C++,Java Projects.
 - 📫 Contact : abhinav14052002@gmail.com
 
