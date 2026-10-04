@@ -17,7 +17,7 @@
 </div>
 <div align="center">
 <div id="badges">
-  <a href="www.linkedin.com/in/abhinav-shukla-9024bb20a">
+  <a href="https://www.linkedin.com/in/abhinav-shukla-9024bb20a">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/">
@@ -29,14 +29,14 @@
 
 
 
-<h1>About Me ❤️</h1>
+<h1>About Me ❤️️</h1>
 
 - 💡 Data Analytics Enthusiast with a passion for turning raw data into meaningful insights.
 - 🎓 Aspiring Data Analyst focused on mastering core analytical tools and techniques.
 - 🏢 Currently on a journey to build impactful data solutions and step into the data industry.
 - ⚡ In my free time, I love to analyze datasets and practice problem-solving.
 - 😆 Fun fact: If data analysis were a sport, I'd be the MVP of finding hidden trends in spreadsheets!
-- 📫 How to reach me: <a href="mailto:abhinav14052002@gmail.com">abhinav@gmail.com</a> | or connect with me on <a href="https:www.linkedin.com/in/abhinav-shukla-9024bb20a">My LinkedIn.</a>
+- 📫 How to reach me: <a href="mailto:abhinav14052002@gmail.com">abhinav14052002@gmail.com</a> | or connect with me on <a href="https://www.linkedin.com/in/abhinav-shukla-9024bb20a">My LinkedIn.</a>
 - <p>✍️ Check out my projects and learning journey on my portfolio.</p>
 
 <br>
@@ -44,5 +44,4 @@
 
 # 💻 Tech Stack:
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power BI](https://img.shields.io/badge/power_bi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kumod00
