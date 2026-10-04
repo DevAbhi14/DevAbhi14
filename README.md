@@ -17,7 +17,7 @@
 </div>
 <div align="center">
 <div id="badges">
-  <a href="https://www.linkedin.com/in/abhinav-shukla/">
+  <a href="www.linkedin.com/in/abhinav-shukla-9024bb20a">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/">
