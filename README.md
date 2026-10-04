@@ -36,7 +36,7 @@
 - 🏢 Currently on a journey to build impactful data solutions and step into the data industry.
 - ⚡ In my free time, I love to analyze datasets and practice problem-solving.
 - 😆 Fun fact: If data analysis were a sport, I'd be the MVP of finding hidden trends in spreadsheets!
-- 📫 How to reach me: <a href="mailto:abhinav@gmail.com">abhinav@gmail.com</a> | or connect with me on <a href="https://www.linkedin.com/in/abhinav-shukla/">My LinkedIn.</a>
+- 📫 How to reach me: <a href="mailto:abhinav14052002@gmail.com">abhinav@gmail.com</a> | or connect with me on <a href="https:www.linkedin.com/in/abhinav-shukla-9024bb20a">My LinkedIn.</a>
 - <p>✍️ Check out my projects and learning journey on my portfolio.</p>
 
 <br>
